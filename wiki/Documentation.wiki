@@ -8,6 +8,8 @@ jqSlider is a jQuery horizontal image slider which uses a preview bar of image p
 
 = HTML Structure and Integration =
 
+It's very important that slide-wrapper class has a fixed size. Otherwise the plugin won't work.
+
 {{{
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
 <html>
