@@ -15,7 +15,7 @@ jqSlider is a jQuery horizontal image slider which uses a preview bar of image p
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 	<title>jqSlider</title>
 	<script type="text/javascript" src="jquery-1.4.2.min.js"></script>
-	<script type="text/javascript" src="jquery.jqslider-0.3.js"></script>
+	<script type="text/javascript" src="jquery.jqslider-0.3.min.js"></script>
 	<style type="text/css">
 		
 		* {
