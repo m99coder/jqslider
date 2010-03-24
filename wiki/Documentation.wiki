@@ -157,8 +157,8 @@ There are severel configuration options for jqSlider. It's possible to define th
 			$(this).jqSlider({
 				debug: true,			// enable debugging
 				barSize: 25,			// size of preview bar per image
-				speedTransition: 30,		// speed of image transition
-				speedOpacity: 30,		// speed of controls transition
+				speedTransition: 300,		// speed of image transition
+				speedOpacity: 300,		// speed of controls transition
 				transitionAnimated: true,	// animate image transition
 				opacityAnimated: true,		// animate controls transition
 			});
